@@ -2,12 +2,12 @@
 
 <b>Description:</b>
 
-Phase I impelments the phonebuzz implementation using twilio twiml 
-Twilio account phone Number: +12562026173
-Call to the above mentioned number and follow the intructions
+Phase I impelments the phonebuzz implementation using twilio twiml <br>
+Twilio account phone Number: +12562026173<br>
+Call to the above mentioned number and follow the intructions<br>
 <b>Technology Used: Java,Servlet,Maven,ngrok server,apcahe tomcate 7 server</b>
 
-<b>Steps to Deploy</b>
+<b>Steps to Deploy</b><br>
 [1] Clone or Download the project from the repository<br>
 [2] Run a maven "Clean install" command on the above project which will generate "phase1.war" in target folder
 [3] Deploy phase1.war on tomcate<br>
