@@ -15,7 +15,7 @@ Call to the above mentioned number and follow the intructions<br>
 [5] Copy the new public url from ngrok terminal <br>
 [6] Login to the your twilio account and set the "https://xxxxxxx/phase1/twiml" as your voice url where xxxx is the generated ngrok url<br>
 [7] You are all set to test phonebuzz and make a call to your twilio account phone number<br><br>
-<b>Technology Used: Java,Servlet,Maven,ngrok server,apcahe tomcate 7 server</b>
+<b>Technology Used: Java Servlet,Maven,ngrok server,apcahe tomcate 7 server</b>
 
 
 
